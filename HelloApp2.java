@@ -1,4 +1,4 @@
-public class HelloApp {
+public class HelloApp2 {
     public static void main(String[] args) {
         
         // Check if user has provided any argument
